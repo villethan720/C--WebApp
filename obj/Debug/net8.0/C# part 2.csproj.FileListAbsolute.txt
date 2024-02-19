@@ -1,0 +1,30 @@
+/Users/villaethan/Desktop/C# part 2/bin/Debug/net8.0/appsettings.Development.json
+/Users/villaethan/Desktop/C# part 2/bin/Debug/net8.0/appsettings.json
+/Users/villaethan/Desktop/C# part 2/bin/Debug/net8.0/C# part 2.staticwebassets.runtime.json
+/Users/villaethan/Desktop/C# part 2/bin/Debug/net8.0/C# part 2
+/Users/villaethan/Desktop/C# part 2/bin/Debug/net8.0/C# part 2.deps.json
+/Users/villaethan/Desktop/C# part 2/bin/Debug/net8.0/C# part 2.runtimeconfig.json
+/Users/villaethan/Desktop/C# part 2/bin/Debug/net8.0/C# part 2.dll
+/Users/villaethan/Desktop/C# part 2/bin/Debug/net8.0/C# part 2.pdb
+/Users/villaethan/Desktop/C# part 2/obj/Debug/net8.0/C# part 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/villaethan/Desktop/C# part 2/obj/Debug/net8.0/C# part 2.AssemblyInfoInputs.cache
+/Users/villaethan/Desktop/C# part 2/obj/Debug/net8.0/C# part 2.AssemblyInfo.cs
+/Users/villaethan/Desktop/C# part 2/obj/Debug/net8.0/C# part 2.csproj.CoreCompileInputs.cache
+/Users/villaethan/Desktop/C# part 2/obj/Debug/net8.0/C# part 2.MvcApplicationPartsAssemblyInfo.cache
+/Users/villaethan/Desktop/C# part 2/obj/Debug/net8.0/C# part 2.RazorAssemblyInfo.cache
+/Users/villaethan/Desktop/C# part 2/obj/Debug/net8.0/C# part 2.RazorAssemblyInfo.cs
+/Users/villaethan/Desktop/C# part 2/obj/Debug/net8.0/staticwebassets.build.json
+/Users/villaethan/Desktop/C# part 2/obj/Debug/net8.0/staticwebassets.development.json
+/Users/villaethan/Desktop/C# part 2/obj/Debug/net8.0/staticwebassets/msbuild.C# part 2.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/villaethan/Desktop/C# part 2/obj/Debug/net8.0/staticwebassets/msbuild.build.C# part 2.props
+/Users/villaethan/Desktop/C# part 2/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.C# part 2.props
+/Users/villaethan/Desktop/C# part 2/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.C# part 2.props
+/Users/villaethan/Desktop/C# part 2/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/villaethan/Desktop/C# part 2/obj/Debug/net8.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/villaethan/Desktop/C# part 2/obj/Debug/net8.0/scopedcss/bundle/C# part 2.styles.css
+/Users/villaethan/Desktop/C# part 2/obj/Debug/net8.0/scopedcss/projectbundle/C# part 2.bundle.scp.css
+/Users/villaethan/Desktop/C# part 2/obj/Debug/net8.0/C# part 2.dll
+/Users/villaethan/Desktop/C# part 2/obj/Debug/net8.0/refint/C# part 2.dll
+/Users/villaethan/Desktop/C# part 2/obj/Debug/net8.0/C# part 2.pdb
+/Users/villaethan/Desktop/C# part 2/obj/Debug/net8.0/C# part 2.genruntimeconfig.cache
+/Users/villaethan/Desktop/C# part 2/obj/Debug/net8.0/ref/C# part 2.dll

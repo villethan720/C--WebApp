@@ -1,0 +1,24 @@
+@page
+@model PhotosModel
+@{
+    ViewData["Title"] = "Super Bowl LVIII Photos";
+    var brand = ViewData["brand"];
+}
+<h1>@ViewData["Title"]</h1>
+ <head>
+    <p>Look at some of the photos taken during Super Bowl LVIII!</p>
+ </head>
+ <body>
+    <p>@brand</p>
+    <br>
+    <img src="~/Images/start.jpg">
+    <br>
+    <img src="~/Images/49ersKicker.jpg">
+    <br>
+    <img src="~/Images/ChiefsTunnel.jpg">
+    <br>
+    <img src="~/Images/49ersPic.jpg">
+    <br>
+    <img src="~/Images/ChiefWin.jpg">
+
+ </body>

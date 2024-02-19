@@ -1,0 +1,29 @@
+﻿@page
+@model PrivacyModel
+@{
+    ViewData["Title"] = "Team Stats";
+}
+<h1>@ViewData["Title"]</h1>
+<head>
+<p>Look at all the stats from both teams</p>
+</head>
+
+<body>
+    <div>
+        <p>@ViewData["player1"]</p>
+        <p>@ViewData["player2"]</p>
+        <p>@ViewData["player3"]</p>
+        <p>@ViewData["player4"]</p>
+    </div>
+
+    <img src="~/Images/livePlay.jpg">
+
+    <div>
+        <p>The Chiefs scored 25 points amd accumulated 455 yards. They had 2 turnovers and 24 first downs</p>
+        <p>The 49ers scored 22 points and accumulated 382 yards. They had 2 turnovers and 23 first downs</p>
+    </div>
+    <div>
+        <p>@ViewData["betterQuarter"]</p>
+        <p>@ViewData["betterRunning"]</p>
+    </div>
+</body>

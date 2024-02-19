@@ -1,0 +1,18 @@
+@page
+@model NextModel
+@{
+    ViewData["Title"] = "What's Next";
+    var nextEvent = ViewData["nextEvent"];
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>What will happen now?</p>
+<br>
+<p>@nextEvent</p>
+<p>What do you think? yes or no?</p>
+<select name="yes or no">
+    <option>yes</option>
+    <option>no</option>
+    <option>Who knows</option>
+    <option>I do not care</option>
+</select>
